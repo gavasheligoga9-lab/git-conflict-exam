@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 AppVersion = 2.0(Final Release - Merge)
+=======
+AppVersion = 2.0(Remote Update)
+>>>>>>> 69a0a9502e95b817ead65471b17f25de3ff2c8a0
