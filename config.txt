@@ -1,5 +1,4 @@
 
 AppVersion = 2.0(Final Release - Merge)
 
-AppVersion = 2.0(Remote Update)
 
